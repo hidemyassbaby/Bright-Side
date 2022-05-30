@@ -1,18 +1,18 @@
 {
     "items": [
-        {
-            "link": "https://raw.githubusercontent.com/hidemyassbaby/leomonade/main/xml/menu/youtube/Scam%20Baiters/scambaiters.json", 
+        { 
             "type": "dir", 
-            "thumbnail": "https://i.postimg.cc/YSHytkPd/image.png", 
-            "summary": "Collection Of Youtube Scam Baiters who fight scammers",
-            "title": "ScamBaiters"
+            "title": "[COLOR white]Youtube Channel[/COLOR]", 
+            "link": "https://www.youtube.com/channel/UC4rlAVgAK0SGk-yTfe48Qpw/playlists", 
+            "thumbnail": "https://i.postimg.cc/L4Yqk4gF/icon.png", 
+            "fanart": "https://i.postimg.cc/z3YYKFbv/fanart.png"
         },
         { 
             "type": "dir", 
-            "title": "[COLOR red]YouTube Playlist[/COLOR]", 
+            "title": "[COLOR white]Playlist[/COLOR]", 
             "link": "https://www.youtube.com/channel/UC4rlAVgAK0SGk-yTfe48Qpw/playlists", 
-            "thumbnail": "", 
-            "fanart": ""
+            "thumbnail": "https://i.postimg.cc/L4Yqk4gF/icon.png", 
+            "fanart": "https://i.postimg.cc/z3YYKFbv/fanart.png"
         }
         
     ]
